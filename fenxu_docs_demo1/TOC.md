@@ -1,0 +1,1 @@
+# [Azure all in one](azure_all_in_one.md)

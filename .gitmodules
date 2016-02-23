@@ -1,0 +1,4 @@
+[submodule "themes for demo1"]
+	path = fenxu_docs_demo1/_themes
+	url = https://github.com/JialinXin/DocsThemes
+	branch = live

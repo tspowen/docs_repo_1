@@ -32,7 +32,7 @@
     "globalMetadata": {},
     "fileMetadata": {},
     "template": [
-      "op.html"
+      "docs.html"
     ],
     "dest": "fenxu_docs_demo1"
   }
