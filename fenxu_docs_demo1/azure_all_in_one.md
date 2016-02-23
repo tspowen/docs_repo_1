@@ -79,7 +79,7 @@ Single Sign-On and AD FS| Domain admin permissions in the domain in which your f
 ## Azure selector
 The following content contains azure single and multi selectors
 ### Azure single selector
-> [!div class=""op_single_selector""]
+> [!div class="op_single_selector"]
 > * [Universal Windows](../articles/notification-hubs-windows-store-dotnet-get-started/.md)
 > * [Windows Phone](../articles/notification-hubs-windows-phone-get-started/.md)
 > * [iOS](../articles/notification-hubs-ios-get-started/.md)
@@ -92,7 +92,7 @@ The following content contains azure single and multi selectors
 > 
 
 ### Azure multi selectors
-> [!div class=""op_multi_selector"" title1=""Platform"" title2=""Backend""]
+> [!div class="op_multi_selector" title1="Platform" title2="Backend"]
 > * [(iOS | .NET)](./mobile-services-dotnet-backend-ios-get-started-push.md)
 > * [(iOS | JavaScript)](./mobile-services-javascript-backend-ios-get-started-push.md)
 > * [(Windows universal C# | .NET)](./mobile-services-dotnet-backend-windows-universal-dotnet-get-started-push.md)
