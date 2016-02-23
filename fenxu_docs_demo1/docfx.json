@@ -6,8 +6,7 @@
           "**/*.md"
         ],
         "exclude": [
-          "**/obj/**",
-          "fenxu_docs_demo1/**"
+          "**/obj/**"
         ],
         "src": null,
         "dest": null
@@ -20,8 +19,7 @@
           "**/*.jpg"
         ],
         "exclude": [
-          "**/obj/**",
-          "fenxu_docs_demo1/**"
+          "**/obj/**"
         ],
         "src": null,
         "dest": null
